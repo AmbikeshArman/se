@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304689762488",
+    "project_id": "lmao-e8d05",
+    "storage_bucket": "lmao-e8d05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304689762488:android:d4994724701cf11065644d",
+        "android_client_info": {
+          "package_name": "com.example.lmao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304689762488-ub7b33tt0ej0ucqthft3cemd85gaggfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn-Ncv0i1rD85XAUPo74w11LMMQHz663k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304689762488-ub7b33tt0ej0ucqthft3cemd85gaggfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
